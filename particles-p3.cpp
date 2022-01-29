@@ -1,6 +1,6 @@
 // Sabina Hyoju Ahn
 // particles-p3
-// MAT201B_2022_Assignment2-2
+// MAT201B_2022_Assignment2-3
 
 #include "al/app/al_App.hpp"
 #include "al/app/al_GUIDomain.hpp"
